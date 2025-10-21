@@ -6,4 +6,4 @@ exports.convertTimestampToDate = ({ created_at, ...otherProperties }) => {
 };
 
 
-
+// When I have done the query for inserting the atricles, I will add returning * to that query and that will give me access to the result in the next then block. 
