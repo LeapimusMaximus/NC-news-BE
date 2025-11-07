@@ -1,3 +1,5 @@
 node_modules
 .env.development
 .env.test
+.env.production
+queries.txt
